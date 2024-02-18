@@ -19,13 +19,13 @@
    "Unity_BannerAdId": "Banner_Android",
    "Unity_InterstitialAdId": "Interstitial_Android", 
    "Unity_RewardedAdId": "Rewarded_Android",
-   "Applovin_BannerAdId": "a1aa5cc7696db99e",
-   "Applovin_InterstitialAdId": "b7332269366d185e",
-   "Applovin_NativeAdId": "4a2beed04258ec70",
-   "Applovin_NativeBannerAdId": "d0c66bfecb955a09",
+   "Applovin_BannerAdId": "7ef0505121a2db24",
+   "Applovin_InterstitialAdId": "3043fb9f9aa1860b",
+   "Applovin_NativeAdId": "b42bb434c64e2f00",
+   "Applovin_NativeBannerAdId": "e7ebeb0110566606",
    "Applovin_RewardedAdId": "applovin_rewarded",
    "ChackUpdate": "false",
    "ads_bottom_layout": 1,
-   "Policy": "https://www.google.co.in/",
-   "Condition": "https://www.google.co.in/"
+   "Policy": "https://sites.google.com/view/loanpop/home",
+   "Condition": "https://sites.google.com/view/loanpop/home"
 }
